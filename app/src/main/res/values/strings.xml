@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="string_click_to_load">Hello World!</string>
+    <string name="string_getting_json_title">Подождите</string>
+    <string name="string_getting_json_message">Получаем информацию</string>
+    <string name="string_some_thing_wrong">Fail!</string>
+    <string name="string_internet_connection_unavailable">Интернет соеденение недоступно</string>
+    <string name="enterNumber">Enter convert price!</string>
+    <string name="string_db_empty">You doesn\'t have converters history</string>
+</resources>
